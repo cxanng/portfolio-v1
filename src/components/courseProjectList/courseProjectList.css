@@ -1,0 +1,90 @@
+.cpl {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.cpl-texts {
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cpl-title {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.cpl-desc {
+  margin: 20px 0;
+  font-size: 23px;
+}
+
+.cpl-slider {
+  height: 500px;
+  overflow-x: hidden;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  left: 0;
+  transition: all 1s ease-out;
+}
+
+.cpl-container {
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cpl-arrow-left {
+  cursor: pointer;
+  height: 50px;
+  position: absolute;
+  left: 100px;
+  top: 50%;
+  transform: translate(0, -50%);
+  transform: rotateY(180deg);
+}
+
+.cpl-arrow-right {
+  cursor: pointer;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 100px;
+}
+
+@media screen and (max-width: 600px) {
+
+  .cpl {
+    height: 140vh;
+  }
+
+  .cpl-title {
+    text-align: center;
+  }
+
+  .cpl-slider {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .cpl-desc,
+  .cpl-arrow-left,
+  .cpl-arrow-right {
+    display: none;
+  }
+}
