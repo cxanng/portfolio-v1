@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13ba085a.chunk.css",
+    "main.js": "/static/js/main.c86af1b6.chunk.js",
+    "main.js.map": "/static/js/main.c86af1b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.192daaab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.192daaab.js.map",
+    "static/js/2.5e528e5b.chunk.js": "/static/js/2.5e528e5b.chunk.js",
+    "static/js/2.5e528e5b.chunk.js.map": "/static/js/2.5e528e5b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.13ba085a.chunk.css.map": "/static/css/main.13ba085a.chunk.css.map",
+    "static/js/2.5e528e5b.chunk.js.LICENSE.txt": "/static/js/2.5e528e5b.chunk.js.LICENSE.txt",
+    "static/media/arrow.5d17fb97.png": "/static/media/arrow.5d17fb97.png",
+    "static/media/cargotec-logo.34c9dcdb.png": "/static/media/cargotec-logo.34c9dcdb.png",
+    "static/media/contact-me.d13d5e32.jpg": "/static/media/contact-me.d13d5e32.jpg",
+    "static/media/me.b581f47f.png": "/static/media/me.b581f47f.png",
+    "static/media/petProj1.204eab60.png": "/static/media/petProj1.204eab60.png",
+    "static/media/petProj2.53b7ee90.png": "/static/media/petProj2.53b7ee90.png",
+    "static/media/petProj3.c2cd5191.png": "/static/media/petProj3.c2cd5191.png",
+    "static/media/petProj4.263f1f6c.png": "/static/media/petProj4.263f1f6c.png",
+    "static/media/petProj5.2e39190b.png": "/static/media/petProj5.2e39190b.png",
+    "static/media/petProj6.497f8c40.png": "/static/media/petProj6.497f8c40.png",
+    "static/media/prog3Proj.2b6d655e.png": "/static/media/prog3Proj.2b6d655e.png",
+    "static/media/weatherApp.5795ed38.png": "/static/media/weatherApp.5795ed38.png",
+    "static/media/webdev1Proj.7b891af4.png": "/static/media/webdev1Proj.7b891af4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.192daaab.js",
+    "static/js/2.5e528e5b.chunk.js",
+    "static/css/main.13ba085a.chunk.css",
+    "static/js/main.c86af1b6.chunk.js"
+  ]
+}
