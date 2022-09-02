@@ -1,6 +1,7 @@
 import courseProjImg1 from '../img/weatherApp.png';
 import courseProjImg2 from '../img/webdev1Proj.png';
 import courseProjImg3 from '../img/prog3Proj.png';
+import courseProjImg4 from '../img/webdev2Proj.png';
 
 export const courseProjects = [
   {
@@ -29,5 +30,14 @@ export const courseProjects = [
     techs: ["C++", "Qt"],
     img: courseProjImg3,
     github: "https://github.com/cxanng/Prog3Proj",
+  },
+  {
+    id: 4,
+    name: "Sandwich app",
+    course: "Web development 2",
+    desc: "A sandwich ordering application",
+    techs: ["ReactJs", "NodeJs", "RabbitMQ"],
+    img: courseProjImg4,
+    github: "https://github.com/cxanng/sandwich_app",
   }
 ]

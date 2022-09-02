@@ -13,7 +13,7 @@ const Intro = () => {
           <h1 className='intro-name'>The Anh Nguyen.</h1>
           <div className="intro-position">Software Developer</div>
           <p className="intro-desc">
-            I am a third-year student in <a href="https://www.tuni.fi/en/about-us/tampere-university" target="_blank" rel="noopener noreferrer">Tampere University</a>, majoring in Information and Communication Technology.
+            I am a first-year master student in <a href="https://www.tuni.fi/en/about-us/tampere-university" target="_blank" rel="noopener noreferrer">Tampere University</a>, majoring in Information and Communication Technology.
             My focus group is Software, Web & Could engineering. Here are some technologies that I'm capable to work with:
           </p>
           <ul className='intro-skills'>
@@ -21,7 +21,7 @@ const Intro = () => {
             <li className='intro-skill-item'>NodeJs, ReactJs</li>
             <li className='intro-skill-item'>Python, C++</li>
           </ul>
-          <a href='cv-2021.pdf' className='intro-cv' download='cv-The-Anh-Nguyen'>My resume</a>
+          <a href='cv-2022.pdf' className='intro-cv' download='cv-The-Anh-Nguyen'>My resume</a>
           <div className="intro-contact">
             <div className="intro-contact-item">
               <a href="https://www.linkedin.com/in/anhnguyen942/" target="_blank" rel="noopener noreferrer">

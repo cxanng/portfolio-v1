@@ -8,8 +8,8 @@ const CourseProjectList = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const handleSlide = (dir) => {
-    dir === "left" ? setCurrentSlide(currentSlide > 0 ? currentSlide - 1 : 2)
-    : setCurrentSlide(currentSlide < 2 ? currentSlide + 1 : 0 )
+    dir === "left" ? setCurrentSlide(currentSlide > 0 ? currentSlide - 1 : 3)
+    : setCurrentSlide(currentSlide < 3 ? currentSlide + 1 : 0)
   }
   return (
     <div className='cpl' id='course-projects'>
@@ -23,7 +23,6 @@ const CourseProjectList = () => {
             <CourseProject project={pr}/>
           </div>)
         )}
-        
       </div>
       <img src={arrow} className='cpl-arrow-left' alt="" onClick={() => handleSlide("left")}/>
       <img src={arrow} className='cpl-arrow-right' alt="" onClick={() => handleSlide("right")}/>

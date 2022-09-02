@@ -23,8 +23,8 @@ export const projects = [
   {
     id: 3,
     name: "Birthday reminder",
-    github: "https://github.com/cxanng/petProj3-birthday-reminder",
-    demo: "https://cxanng.github.io/petProj3-birthday-reminder/",
+    github: "https://github.com/cxanng/react-pokemon",
+    demo: "https://cxanng.github.io/react-pokemon/",
     img: img3,
   },
   {

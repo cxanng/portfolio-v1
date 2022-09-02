@@ -68,7 +68,7 @@
 @media screen and (max-width: 600px) {
 
   .cpl {
-    height: 140vh;
+    height: 160vh;
   }
 
   .cpl-title {
@@ -77,7 +77,7 @@
 
   .cpl-slider {
     display: flex;
-    height: 100vh;
+    height: 120vh;
     flex-direction: column;
     justify-content: center;
   }

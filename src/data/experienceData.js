@@ -13,9 +13,15 @@ export const experience = {
     {
       id: 2,
       startDate: "01/09/2021",
-      endDate: "Present",
+      endDate: "15/05/2022",
       desc: "Part-time Trainee",
-    }
+    },
+    {
+      id: 3,
+      startDate: "16/05/2022",
+      endDate: "29/08/2022",
+      desc: "Full-time Summer Trainee", 
+    }, 
   ],
   companyLogo: img,
   companyWebsite: "https://www.cargotec.com/en/careers/dish-main/",

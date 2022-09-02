@@ -2,6 +2,7 @@
   "name": "04-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cxanng.github.io/portfolio-v1/",
   "dependencies": {
     "@mui/icons-material": "^5.2.1",
     "@testing-library/jest-dom": "^5.14.1",
